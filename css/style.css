@@ -46,6 +46,7 @@ main{
 
 #data, .images-caption{
     font-size: 10px;
+    margin-top: 0%;
 }
 
 .highlighted-text{
@@ -102,6 +103,5 @@ thead{
     width: auto;
     padding: 10px;
     position: absolute;
-    font-weight: 900;
-    
+    font-weight: 900;  
 }
