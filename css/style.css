@@ -80,3 +80,22 @@ thead{
 .long{
     width: 50%;
 }
+
+.footer-image-graph, .footer-image-monitor{
+    width: 312px;
+    height: 208px;
+    margin-top: 20px;
+}
+
+.footer-image-monitor{
+    background-image: url(../img/monitor.jpg);
+}
+
+.footer-image-graph{
+    background-image: url(../img/graph.jpg);
+}
+
+.images-text{
+    color: white;
+    font-size: 20px;
+}
