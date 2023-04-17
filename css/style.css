@@ -47,3 +47,36 @@ main{
 #data, .images-caption{
     font-size: 10px;
 }
+
+.highlighted-text{
+    background-color: yellow;
+}
+
+.paragraph{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+ul{
+    padding-left: 1;
+}
+
+table{
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 12px;
+    text-align: left;
+}
+
+thead{
+    background-color: #20A9E5;
+    color: white;
+}
+
+.blue{
+    background-color: #B1E5F2;
+}
+
+.long{
+    width: 50%;
+}
