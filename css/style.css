@@ -89,7 +89,7 @@ thead{
 
 .footer-image-monitor{
     background-image: url(../img/monitor.jpg);
-}
+}   
 
 .footer-image-graph{
     background-image: url(../img/graph.jpg);
@@ -98,4 +98,9 @@ thead{
 .images-text{
     color: white;
     font-size: 20px;
+    height: auto;
+    width: auto;
+    padding: 10px;
+    position: absolute;
+    
 }
